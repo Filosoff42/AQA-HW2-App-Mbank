@@ -1,0 +1,1 @@
+# App-Mbank [![Build status](https://ci.appveyor.com/api/projects/status/ecbgur1x7djlxa0r?svg=true)](https://ci.appveyor.com/project/Filosoff42/aqa-hw2-app-mbank)
